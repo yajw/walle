@@ -1,9 +1,10 @@
 package lpr
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func dateOf(y, m, d int) time.Time {

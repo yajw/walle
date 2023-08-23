@@ -1,5 +1,7 @@
 # walle
 
+![Test](https://github.com/yajw/walle/actions/workflows/test.yml/badge.svg?branch=main)
+
 # 使用
 
 ## 1. LPR利率
